@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <Container>
       <div className="flex gap-0 border rounded-3xl w-full bg-white justify-around shadow-lg">
-        <div className="relative flex-1 border rounded-l-md p-4 m-4">
+        <div className="relative flex-1 border rounded-l-md p-4 m-4 w-2/3">
           <Image
             src="/assets/img-page-left.svg"
             alt="Rew Icon"
@@ -15,7 +15,7 @@ export default function Home() {
           />
         </div>
 
-        <div className="flex-1 border-none rounded-lg bg-white p-4 m-4">
+        <div className="flex-1 border-none rounded-lg bg-white p-4 m-4 w-1/3">
           <div className="flex-1 flex-col bg-white">
             <div className="pt-28">
               <div>
