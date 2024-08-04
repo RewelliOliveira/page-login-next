@@ -17,7 +17,7 @@ export default function Home() {
 
         <div className="flex-1 border-none rounded-lg bg-white p-4 m-4 w-1/3">
           <div className="flex-1 flex-col bg-white">
-            <div className="pt-28">
+            <div className="pt-16 mx-6">
               <div>
                 <div>
                   <Image
